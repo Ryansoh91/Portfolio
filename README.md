@@ -1,3 +1,8 @@
-A simple program with two versions. The code are designed differently.
+A simple program with two versions, the code are designed slightly differently. Mainly to show:
+
+1. fundamentals of my programming
+2. clarity, design of, and how maintainable is the code
+3. time complexity of the algorithm
+4. how I name variables and functions
 
 Please see the Process Documentation v1, and/or screenshots of both the versions too.
