@@ -5,4 +5,4 @@ A simple program with two versions, the code are designed slightly differently. 
 3. time complexity of the algorithm
 4. how I name variables and functions
 
-Please see the Process Documentation v1, and/or screenshots of both the versions too.
+Please see the Process Documentation v1, and/or screenshots of both the versions.
