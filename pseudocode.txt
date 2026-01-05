@@ -1,0 +1,18 @@
+Get input for number of players, validate max 4 - get_players_number() save return value in n
+Initialize integer i = 1
+While (true):
+    Print currently Player i
+    Generate random number between 1 to 6 - generate_dice_random()
+    Check:
+        if encounter snake - isSnake()
+            move backward
+        else if encounter ladder - isLadder()
+            move forward
+    Print current box
+    Check:
+        if player reached 100th box: - isWinner()
+            print winner and return
+    Increment i
+    Check:
+        if i > n
+            reset i to 1
